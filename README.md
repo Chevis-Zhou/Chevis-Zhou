@@ -1,3 +1,5 @@
+[![Chevis Zhou — design engineer who designs the product and ships it, from user research to production React](assets/cover.png)](https://cheviszhou.com)
+
 # Chevis Zhou
 
 Design Engineer / Technical Product Designer. I design interfaces and build the code that ships them — most recently a Next.js portfolio built with an AI agent in the loop from the first commit.
