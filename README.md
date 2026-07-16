@@ -6,9 +6,8 @@ Design Engineer / Technical Product Designer. I design interfaces and build the 
 
 ## Recent work
 
-- **Solara** — owned UX strategy for a documentation portal that carried an open-source Python framework to 170k monthly downloads and ~30k developers reached. Paired with a sunrise-identity marketing site that drove 1,300% download growth. [Docs case study](https://cheviszhou.com/projects/solara-webproduct) · [Marketing case study](https://cheviszhou.com/projects/solara-marketing)
-- **Mentor Buddies** — redesigned onboarding for a mentorship app, raising completion from 1.9% to 30.4% by making profile creation optional instead of a gate. [Write-up](https://cheviszhou.com/writing/onboarding-users-skip)
-- **Entagile** — marketing site redesign for a financial staffing firm; +37% social-traffic conversion, +46% time on page. Designed in Figma, then built it myself in Framer. [Case study](https://cheviszhou.com/projects/entagile)
+- **Solara** — owned UX strategy for the documentation portal that carried an open-source Python framework into its steepest growth: 170k monthly downloads and ~30k developers reached, on a 100+ component design system. [Case study](https://cheviszhou.com/projects/solara-webproduct)
+- **Accessibility eye-tracking research** — MA capstone at GMU's Visual Attention and Cognition Lab, testing whether assistive technology can compensate for inaccessible sites. It can't: accessible builds scored SUS 88.3 vs 64.2 and took 2:06 vs 8:17 on the same tasks (exploratory, n=3). [Case study](https://cheviszhou.com/projects/ux-research)
 
 ## Stack
 
@@ -17,3 +16,5 @@ TypeScript · React · Next.js (App Router) · Tailwind · Figma · Framer
 ## Currently
 
 Writing about the intersection of design and AI-assisted engineering — [cheviszhou.com/writing](https://cheviszhou.com/writing).
+
+Publishing the [Claude Code skills](https://github.com/Chevis-Zhou/agent-skills) I use daily, plus notes on how the skill system is designed — trigger routing, skill chaining, and model/effort selection per phase.
