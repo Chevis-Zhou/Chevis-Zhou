@@ -2,14 +2,14 @@
 
 # Chevis Zhou
 
-Design Engineer / Technical Product Designer. I design interfaces and build the code that ships them — most recently a Next.js portfolio built with an AI agent in the loop from the first commit.
+Design Engineer / Technical Product Designer. I design interfaces and build the code that ships them — currently through AethrDesign, a one-person web practice where I direct the design and AI executes the build.
 
 **[cheviszhou.com](https://cheviszhou.com)** · [LinkedIn](https://www.linkedin.com/in/cheviszhou/) · cheviszhou@gmail.com
 
 ## Recent work
 
-- **Solara** — owned UX strategy for the documentation portal that carried an open-source Python framework into its steepest growth: 170k monthly downloads and ~30k developers reached, on a 100+ component design system. [Case study](https://cheviszhou.com/projects/solara-webproduct)
-- **Accessibility eye-tracking research** — MA capstone at GMU's Visual Attention and Cognition Lab, testing whether assistive technology can compensate for inaccessible sites. It can't: accessible builds scored SUS 88.3 vs 64.2 and took 2:06 vs 8:17 on the same tasks (exploratory, n=3). [Case study](https://cheviszhou.com/projects/ux-research)
+- **AethrDesign** — my solo web practice since Aug 2025, run as an AI-directed build: 19 completed engagements, delivery down from ~12 weeks hand-built to 1–4 weeks, on a spec-gated pipeline whose middle I built myself. [Case study](https://cheviszhou.com/projects/aethrdesign)
+- **Treevah** — redesigned the core navigation of a filter-driven cloud file manager, then proposed the design operating model that let a ten-person design org ship it — leading the team behind 80+ components adopted by engineering, across 15+ rounds of user testing. [Case study](https://cheviszhou.com/projects/treevah)
 
 ## Stack
 
@@ -19,4 +19,4 @@ TypeScript · React · Next.js (App Router) · Tailwind · Figma · Framer
 
 Writing about the intersection of design and AI-assisted engineering — [cheviszhou.com/writing](https://cheviszhou.com/writing).
 
-Publishing the [Claude Code skills](https://github.com/Chevis-Zhou/agent-skills) I use daily, plus notes on how the skill system is designed — trigger routing, skill chaining, and model/effort selection per phase.
+Publishing the [Claude Code skills](https://github.com/Chevis-Zhou/agent-skills) I use daily — 13 of the 56 in my working set are open-source — plus notes on how the skill system is designed: trigger routing, skill chaining, and model/effort selection per phase.
